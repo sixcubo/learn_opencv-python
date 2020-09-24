@@ -1,15 +1,13 @@
 # learn_opencv-python
 
-##### 教学视频地址：https://www.bilibili.com/video/av24998616
-##### 原笔记地址：https://github.com/Betterming/opencv_exercises.git
+跟随视频学习 opencv-python 时整理的笔记。对使用到的 api 做了翻译与个人理解。
 
-此笔记基于[原笔记](https://github.com/Betterming/opencv_exercises.git) ,对其做出补充（基本只借用了代码和图片，注释部分做了大量改写和补充）
+视频地址：https://www.bilibili.com/video/av24998616
+其他参考视频： https://www.bilibili.com/video/av64112410
 
-前提条件：已学习**python**的基本语法，**numpy**的基本知识
+前提条件：python的基本语法，numpy的基本知识。
 
-学习时建议结合**搜索引擎**和**官方文档**
-
-##### 其他可参考视频： https://www.bilibili.com/video/av64112410
+视频有许多讲解不清晰的地方，学习时建议结合**搜索引擎**和**官方文档**。
 
 # 目录
 1. numpy_tutorial
@@ -42,5 +40,3 @@
     - 分水岭算法  tutorial_25_watershed
     - 人脸检测  tutorial_26_face_detection
     - 数字验证码识别  tutorial_27_recognization
-
-3. opencv_advanced
